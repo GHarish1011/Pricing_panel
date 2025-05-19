@@ -2,10 +2,6 @@
 
 A responsive and visually appealing pricing panel layout built with HTML and CSS. This design displays three pricing tiers side by side, each with custom icons, clear features, and call-to-action buttons — ideal for showcasing product or subscription options.
 
-## 🌐 Live Demo
-[View on GitHub Pages](https://your-username.github.io/pricing-panel/)  
-*(Replace `your-username` with your GitHub username after enabling GitHub Pages)*
-
 ## 📁 Project Structure
 
 - `index.html` – Markup structure for the pricing panel
